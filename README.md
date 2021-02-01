@@ -7,6 +7,7 @@ The aim of this project is to analyze the customer segmentation Report for Arvat
 
 My project <a href="https://github.com/ebulutbaltaci/Arvato_Bertelsmann_Customer_Segmentation" target="_blank">GitHub</a> repository.
 
+Here is blog post : <a href="https://ebulutbaltaci.medium.com/arvato-bertelsmann-customer-segmentation-7cb6cbecbcc7" target="_blank">Medium</a>
 
 ## 2. Instructions
 
